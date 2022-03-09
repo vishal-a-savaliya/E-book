@@ -1,0 +1,120 @@
+.login > h6{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+} 
+
+.title{
+    color: #f14d54;
+}
+
+.login > h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 32px;
+    color: #414141;
+    margin-bottom: 25px;
+}
+
+.login-container{
+    margin-top: 50px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.register{
+    margin-right: 10px;
+    width:100%
+}
+
+.user-login{
+    margin-left: 10px;
+    width:100%
+}
+
+.lr > h2{
+    font-size: 20px;
+    color:#414141;
+    margin-bottom: 20px;
+}
+
+.lr > hr{
+    outline: none;
+    color: #414141;
+}
+
+.lr > p{
+ margin: 20px 0px;
+ font-size: 15px;
+ /* font-family: 'roboto-light'; */
+ color: #838383;
+}
+
+.bullets > ul > li{
+    font-size: 15px;
+    color:#212121;
+    padding-bottom: 15px;
+}
+
+.Login-form{
+    display: flex;
+    flex-direction: column;
+}
+
+.Login-form > input{
+    margin-bottom: 40px;
+    margin-top:0px ;
+
+    width: 422px;
+  height: 40px;
+  color: rgb(33, 33, 33);
+  border-radius: 4px;
+  outline: none;
+  text-align: left;
+  font-size: 16px;
+}
+
+label{
+    padding-bottom: 15px;
+}
+
+.btn-new-account{
+    width:220px;
+    height: 45px;
+    background-color: #f14d54;
+    color:white;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 154px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
+
+.btn-new-account:hover{
+    cursor: pointer;
+}
+
+.btn-login{
+    font-size: 18px;
+    font-weight: 500;
+    width:100px;
+    height: 45px;
+    background-color: #f14d54;
+    color:white;
+    margin-top: 30px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
+
+.btn-login:hover{
+    cursor:pointer;
+}

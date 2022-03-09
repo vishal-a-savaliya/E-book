@@ -1,0 +1,100 @@
+.register > h6{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+} 
+
+.title{
+    color: #f14d54;
+}
+
+.register > h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 32px;
+    color: #414141;
+    margin-bottom: 25px;
+}
+
+.register-container{
+    width: 70%;
+    margin: 50px auto 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.register-container > h2 {
+    font-size: 20px;
+    color:#414141;
+    margin-bottom: 20px;
+}
+
+.register-container > p{
+ margin: 20px 0px;
+ font-size: 15px;
+ /* font-family: 'roboto-light'; */
+ color: #838383;
+}
+
+.persnol-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.persnol-info-input{
+    display: flex;
+    flex-direction: column;
+}
+
+.persnol-info-input > input{
+    width: 500px;
+    height: 40px;
+    margin-bottom: 40px;
+}
+
+.persnol-info-input > label{
+    font-size: 15px;
+    color: #414141;
+    padding: 15px 0px 20px;
+}
+
+.form-address{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.form-address > label{
+    font-size: 15px;
+    color: #414141;
+    padding: 15px auto 20px;
+}
+
+.form-address > input{
+    height: 40px;
+    margin-bottom: 40px;
+    width: 99%;
+}
+
+.register-form >h2{
+    font-size: 20px;
+    color:#414141;
+    margin-bottom: 20px;
+}
+
+.btn-register{
+    font-size: 18px;
+    font-weight: 500;
+    width:100px;
+    height: 45px;
+    background-color: #f14d54;
+    color:white;
+    margin-top: 30px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    margin-bottom: 80px;
+}
+
